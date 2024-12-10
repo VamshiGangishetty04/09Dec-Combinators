@@ -1,0 +1,18 @@
+.container p{
+    color: yellow;
+}
+#parent>.childElement{
+    color: red;
+}
+.first+.second{
+    color: blue;
+}
+.question4~p{
+    color: brown;
+}
+#universal *{
+    color: gold;
+}
+a[target] {
+    background-color: yellow;
+  }
